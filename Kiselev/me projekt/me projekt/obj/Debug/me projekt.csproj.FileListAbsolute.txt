@@ -1,0 +1,12 @@
+C:\Users\student\Documents\Kiselev\me projekt\me projekt\obj\Debug\me projekt.csproj.AssemblyReference.cache
+C:\Users\student\Documents\Kiselev\me projekt\me projekt\obj\Debug\me_projekt.Form1.resources
+C:\Users\student\Documents\Kiselev\me projekt\me projekt\obj\Debug\me_projekt.Form2.resources
+C:\Users\student\Documents\Kiselev\me projekt\me projekt\obj\Debug\me_projekt.Properties.Resources.resources
+C:\Users\student\Documents\Kiselev\me projekt\me projekt\obj\Debug\me projekt.csproj.GenerateResource.cache
+C:\Users\student\Documents\Kiselev\me projekt\me projekt\obj\Debug\me projekt.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\Kiselev\me projekt\me projekt\bin\Debug\me projekt.exe.config
+C:\Users\student\Documents\Kiselev\me projekt\me projekt\bin\Debug\me projekt.exe
+C:\Users\student\Documents\Kiselev\me projekt\me projekt\bin\Debug\me projekt.pdb
+C:\Users\student\Documents\Kiselev\me projekt\me projekt\obj\Debug\me projekt.exe
+C:\Users\student\Documents\Kiselev\me projekt\me projekt\obj\Debug\me projekt.pdb
+C:\Users\student\Documents\Kiselev\me projekt\me projekt\obj\Debug\me_projekt.Form3.resources
